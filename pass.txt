@@ -1,16 +1,16 @@
-ULOGA ADMIN
+ADMIN
 -------------------------------------------------------------------------
 email: admin@gmail.com 
 pass: admin
 -------------------------------------------------------------------------
-ULOGA RUKOVODILAC
+RUKOVODILAC / MANAGER
 -------------------------------------------------------------------------
 email: marko.markovic@gmail.com 
 pass: sifra
 email: milica.lazic@gmail.com 
 pass: sifra
 -------------------------------------------------------------------------
-ULOGA IZVRŠILAC
+IZVRŠILAC / EXECUTOR
 -------------------------------------------------------------------------
 email: aleksa@gmail.com 
 pass: sifra
