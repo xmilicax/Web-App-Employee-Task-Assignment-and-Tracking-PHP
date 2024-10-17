@@ -1,0 +1,20 @@
+ULOGA ADMIN
+-------------------------------------------------------------------------
+email: admin@gmail.com 
+pass: admin
+-------------------------------------------------------------------------
+ULOGA RUKOVODILAC
+-------------------------------------------------------------------------
+email: marko.markovic@gmail.com 
+pass: sifra
+email: milica.lazic@gmail.com 
+pass: sifra
+-------------------------------------------------------------------------
+ULOGA IZVRŠILAC
+-------------------------------------------------------------------------
+email: aleksa@gmail.com 
+pass: sifra
+email: tamara@gmail.com 
+pass: sifra
+email: emilijastt@gmail.com 
+pass: sifra
